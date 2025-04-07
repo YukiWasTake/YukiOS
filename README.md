@@ -12,5 +12,5 @@ Feel free to join [Yuki's Server](https://discord.gg/5Pe59Nsd) if you are intere
 
 ## License
 [MIT License](LICENSE)
-The MIT License allows for the copy, modification, and distribution of these files which I am all for, however, I am strongly against the use of these files for commercial purposes and urge you not to redistribute my files for profit.
+**The MIT License allows for the copy, modification, and distribution of these files however, I am strongly against the use of these files for commercial purposes and urge you not to redistribute my files for profit.**
 
