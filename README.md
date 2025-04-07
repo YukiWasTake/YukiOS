@@ -11,5 +11,5 @@ One of the main reasons I made this repository is that I'm 100% transparent abou
 Feel free to join [Yuki's Server](https://discord.gg/5Pe59Nsd) if you are interested in downloading YukiOS, or if you just want somewhere to hangout.
 
 ## License
-[MIT License](LICENSE.md)
+[MIT License](LICENSE)
 
