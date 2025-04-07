@@ -1,0 +1,34 @@
+NVCleanstall Steps
+____________________
+
+
+First Page
+----------
+Select Install Best Driver For My Hardware
+
+Second Page
+-----------
+Select Minimum At The Bottom Right (Blue Text)
+
+Third Page
+----------
+Please Check The Following Options
++ Disable Installer Telemetry & Advertising
++ Perform A Clean Installation
++ Disable Ansel
++ Show Expert Tweaks -
+  + Disable Driver Telemetry
+  + Enable Message Signaled Interrupts
+  + Disable HDCP (Can Break Streaming Services Such As Netflix) (Optional)
+  + Use Method Compatible With Easy-Anti-Cheat
+  + Automatically Accept The "Driver Unsigned" Warning
+
+Fourth Page
+-----------
+Install
+
+Nvidia Driver Install Prompt
+----------------------------
+- Select ONLY Display Driver Not Display Driver And Geforce Experience / Nvidia App (Geforce Experience And Nvidia App Are Bloatware)
+- Select Custom Install And Make Sure "Perform A Clean Installation" Is Checked
+- Install
