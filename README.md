@@ -17,3 +17,6 @@ Feel free to join [Yuki's Server](https://discord.gg/5Pe59Nsd) if you are intere
 [MIT License](LICENSE)
 **The MIT License allows the copy, modification, and distribution of these files however, I am strongly against the use of these files for commercial purposes and urge you not to redistribute my files for profit.**
 
+## Credits
+Credits to [Orbmu2K](https://github.com/Orbmu2k) since [nvidiaProfileInspector](https://github.com/Orbmu2k/nvidiaProfileInspector) is used.
+
