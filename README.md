@@ -2,7 +2,7 @@
 + Files &amp; scripts that I use for YukiOS.
 + This repository is mainly for easy access to my files for my OS, without the additional space that packaging the files with the ISO would take up.
 + I strongly urge you not to mindlessly run the files within this repository unless you are fully aware of everything they change.
-+ These files don't include everything that I change as most of that is done within NTLite join my [discord](https://discord.gg/5Pe59Nsd) if interested.
++ These files don't include everything that I change as most of that is done within NTLite join my [discord](https://discord.gg/wGM4TZRUmG) if interested.
 
 ## What Is YukiOS?
 YukiOS is a custom OS based on Windows 11 24H2
